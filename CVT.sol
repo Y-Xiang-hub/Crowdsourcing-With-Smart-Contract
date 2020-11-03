@@ -18,7 +18,7 @@ contract CVT{
     uint MaxPrice = 0.5 ether; //can be set by the employer
     bool BiddingResult = false;
     
-    // conduction basic settings
+    //execution basic settings
     uint ConductStartTime;
     uint ConductTimeLimit = 1000 seconds; //can be set by the employer
     uint DepositEmployer = 0.5 ether; //can be set by the employer
