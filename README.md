@@ -11,4 +11,4 @@ This is a Demo of [our work](https://ieeexplore.ieee.org/abstract/document/92852
           pages={220672-220681},
           doi={10.1109/ACCESS.2020.3043042}}
 
-If you have any questions please email me at yuexin.xiang@cug.edu.com.
+If you have any questions please feel free to contact me on e-mail yuexin.xiang@cug.edu.cn.
