@@ -1,5 +1,5 @@
 # Crowdsourcing With Smart Contract
-This is a Demo of [our work](https://ieeexplore.ieee.org/abstract/document/9285293), we tested our proposed scheme on a private chain. If you find our work that can help you with your own research, please considering citing our work as:
+This is the prototype of [our work](https://ieeexplore.ieee.org/abstract/document/9285293), we tested our proposed scheme on a private chain. If you find our work that can help you with your own research, please considering citing our work as:
 
         @ARTICLE{9285293,
           author={Chen, Yuling and Yin, Hongyan and Xiang, Yuexin and Ren, Wei and Ren, Yi and Xiong, Neal Naixue},
