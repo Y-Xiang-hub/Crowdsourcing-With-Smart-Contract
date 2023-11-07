@@ -12,4 +12,4 @@ This is the prototype of [our work](https://ieeexplore.ieee.org/abstract/documen
           doi={10.1109/ACCESS.2020.3043042}
         }
 
-If you have any questions please feel free to contact me by e-mail yuexin.xiang@cug.edu.cn.
+If you have any questions please feel free to contact me by e-mail at Yuexin.Xiang@monash.edu.
